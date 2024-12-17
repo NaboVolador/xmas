@@ -4,3 +4,10 @@
 ASISTENTES 17/12/24
 
 1. José Martínez
+<<<<<<<<< Temporary merge branch 1
+2. Aleix Mingot
+=========
+2. Irene Cortés Tasa
+3. Pere =]
+
+>>>>>>>>> Temporary merge branch 2
